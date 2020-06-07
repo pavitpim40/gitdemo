@@ -1,0 +1,23 @@
+{
+  "name": "gitDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dev.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavitpim40/gitDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavitpim40/gitDemo/issues"
+  },
+  "homepage": "https://github.com/pavitpim40/gitDemo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
