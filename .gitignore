@@ -1,4 +1,4 @@
 *.log
-*.temp
+*.tmp
 bin/
 node_module/
